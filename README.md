@@ -1,4 +1,4 @@
-# Nintex : Home Test
+# Nintex : Single Checkout Page
 
 DEMO 👉 https://single-checkout-page.vercel.app/
 
