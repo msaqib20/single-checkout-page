@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import data from "../pages/data";
+import data from "../pages/api/data";
 
 export default function Cart(props) {
   const { cartItems } = props;

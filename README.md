@@ -22,10 +22,6 @@ Once downloaded, open the terminal in the project directory, and install depende
 npm install
 ```
 
-```
-sanity cors add http://localhost:3000
-```
-
 Then start the example app with:
 
 ```
